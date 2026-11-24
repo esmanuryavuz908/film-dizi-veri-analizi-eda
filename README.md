@@ -67,8 +67,8 @@ Projeyi kendi bilgisayarında çalıştırmak için aşağıdaki adımları taki
 
 1. **Depoyu (repository) klonla:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[esmanuryavuz908]/[film-dizi-veri-analizi-eda].git
-   cd [film-dizi-veri-analizi-eda]
+   git clone https://github.com/esmanuryavuz908/film-dizi-veri-analizi-eda.git
+   cd film-dizi-veri-analizi-eda
    ```
 
 2. **(Önerilen) Sanal ortam oluştur ve etkinleştir:**
@@ -89,6 +89,6 @@ Projeyi kendi bilgisayarında çalıştırmak için aşağıdaki adımları taki
    ```bash
    jupyter notebook
    ```
-   Açılan tarayıcı penceresinden `[film_dizi_eda.ipynb]` dosyasını seçip tüm hücreleri sırayla (`Run All`) çalıştırabilirsin.
+   Açılan tarayıcı penceresinden `film_dizi_eda.ipynb` dosyasını seçip tüm hücreleri sırayla (`Run All`) çalıştırabilirsin.
 
 ---
